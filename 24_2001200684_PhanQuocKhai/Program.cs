@@ -16,7 +16,7 @@ namespace _24_2001200684_PhanQuocKhai
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Bai2());
+            Application.Run(new GiaiPT());
         }
     }
 }
